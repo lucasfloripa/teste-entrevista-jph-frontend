@@ -1,6 +1,7 @@
 ### no front
-- npm i
+- npm install
 - npm start
 
 ### no back
+- npm install
 - npm run dev
